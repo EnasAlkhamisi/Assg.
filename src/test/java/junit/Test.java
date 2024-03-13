@@ -41,7 +41,7 @@ public abstract class Test{
     @AfterEach
     public void afterEach(){
         logger.info("Quitting Browser");
-        driver.quit();
+        //driver.quit();
     }
 
 }

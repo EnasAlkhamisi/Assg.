@@ -19,7 +19,7 @@ import java.util.Set;
 //Verify the new window title is “New Window”
 //Go back to the previous window and then verify the title: “The Internet”
 
-public class assignment1week4  extends test.junit.Test {
+public class assignment1week4 extends test.junit.Test {
     @org.junit.jupiter.api.Test
     public void WindowHandlingExample() throws InterruptedException {
 
