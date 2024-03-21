@@ -10,7 +10,7 @@ import org.openqa.selenium.WebElement;
 
 import java.io.File;
 
-public class assignment7week4 extends test.junit.Test {
+public class assignment7week4 extends junit.Test {
     @Test
     public void AmazonScreenshotExample()  {
 

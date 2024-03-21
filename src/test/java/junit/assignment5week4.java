@@ -5,7 +5,7 @@ import org.openqa.selenium.Cookie;
 
 import java.util.Set;
 
-public class assignment5week4 extends test.junit.Test {
+public class assignment5week4 extends junit.Test {
     @Test
     public void FacebookCookieExample () throws InterruptedException {
         // Navigate to Facebook login page

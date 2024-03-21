@@ -15,7 +15,7 @@ import org.openqa.selenium.interactions.Actions;
    Click on the Amazon logo at the bottom of the page (in the footer) using JavascriptExecutor
    Use Actions to type "ClarusWay" in the search box and perform the search
 */
-public class assignment4week4  extends test.junit.Test {
+public class assignment4week4  extends junit.Test {
     @Test
     public void AmazonDemoTest  () throws InterruptedException {
 

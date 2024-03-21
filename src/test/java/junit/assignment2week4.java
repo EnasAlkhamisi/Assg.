@@ -14,7 +14,7 @@ Drag and drop the 5000 button to the Amount section in DEBIT SIDE
 Drag and drop the second 5000 button to the Amount section in CREDIT SIDE
 Verify the visibility of Perfect text.
 */
-public class assignment2week4 extends test.junit.Test  {
+public class assignment2week4 extends junit.Test {
 
     @Test
     public void DragAndDropExample () throws InterruptedException {

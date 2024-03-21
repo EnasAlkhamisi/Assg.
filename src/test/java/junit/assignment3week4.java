@@ -11,7 +11,7 @@ import org.openqa.selenium.interactions.Actions;
 
 // go to https://www.google.com/
 // search for "Scroll Methods" by using an Actions object
-public class assignment3week4 extends test.junit.Test {
+public class assignment3week4 extends junit.Test {
     @Test
     public void GoogleSearchExample  () {
 

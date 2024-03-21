@@ -1,4 +1,4 @@
-package test.junit;
+package junit;
 import engine.ActionsBot;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -41,7 +41,7 @@ public abstract class Test{
     @AfterEach
     public void afterEach(){
         logger.info("Quitting Browser");
-        //driver.quit();
+        driver.quit();
     }
 
 }
