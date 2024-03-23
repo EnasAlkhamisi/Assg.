@@ -1,4 +1,4 @@
-package junit;
+package TestNG;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
